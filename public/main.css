@@ -1,0 +1,17 @@
+html {
+    background-color: aqua;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: aqua;
+    /* Adjust the opacity here (0.5 for 50% transparency) */
+    color: black;
+    /* Text color */
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: transparent;
+    /* Remove default background color of the icons */
+}
